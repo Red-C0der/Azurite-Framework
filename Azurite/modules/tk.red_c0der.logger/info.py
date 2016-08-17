@@ -1,0 +1,1 @@
+module_file = 'red_c0der_loggermodule'

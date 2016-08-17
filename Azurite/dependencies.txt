@@ -1,0 +1,4 @@
+termcolor
+colored
+pygithub3
+gitpython

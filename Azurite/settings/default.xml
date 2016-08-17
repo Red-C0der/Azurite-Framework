@@ -1,0 +1,28 @@
+<root>
+    <system>
+        <ip>127.0.0.1</ip>
+        <hostname>TestMachine</hostname>
+        
+        <version>1.0.0</version>
+        <modes first="firstmode" second="2">None</modes>
+        
+        <users>
+		    <user hashed_password="5d285c5ff9b028fd92949fbbcfcd33c41527263181605b7f6fae06c557621323b3caf3cee74a83245536f348fcf1adcd2c87d8f69f3f2ba0c304f75e5fa42d40" nickname="root" realname="root" salt="fd4d800f177d4baaa58953915f0c24d2" username="root" />
+	    </users>
+	    
+	    <repos>
+	        <repo location="repo.redc0der.tk" name="Red_C0ders Repo" />
+	        <repo location="repo.maximilian.de" name="Maxis Repository" />
+	        <repo location="hacklife.com/repo" name="hacklifes repo" />
+	        <repo location="repo.azurite.com" name="Azurite Repo" />
+	    </repos>
+	    
+	    <systemdirs>
+	        <dir>/</dir>
+	        <dir>/</dir>
+	        <dir>/</dir>
+	        <dir>/</dir>
+	    </systemdirs>
+        
+    </system>
+</root>
